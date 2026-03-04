@@ -2,7 +2,7 @@
 Front-End Developer | Web Design Specialist
 > ✨ I'm open to new opportunities and collaborations. Feel free to reach out if you’re looking for a motivated front-end developer who values clean code, strong UX, and great teamwork!
 ### 🛠 Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Vue, Angular
+- **Frontend:** React, Vue, TypeScript, JavaScript, TailwindCSS, HTML5, CSS3, Sass
 - **Design:** Adobe Suite, Figma, Canva
-- **Platforms & CMS:** WordPress, Shopify, Squarespace
-- **Version Control & Tools:** Git, Sass, Vite, Node.js
+- **PPlatforms & Cloud:** Shopify (Liquid), WordPress, AWS (basic), Git, GitHub
+- **Tools:** VS Code, Vite, Node.js, Chrome DevTools
