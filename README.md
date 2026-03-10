@@ -4,5 +4,5 @@ Front-End Developer | Web Design Specialist
 ### 🛠 Tech Stack
 - **Frontend:** React, Vue, TypeScript, JavaScript, TailwindCSS, HTML5, CSS3, Sass
 - **Design:** Adobe Suite, Figma, Canva
-- **PPlatforms & Cloud:** Shopify (Liquid), WordPress, AWS (basic), Git, GitHub
+- **Platforms & Cloud:** Shopify (Liquid), WordPress, AWS (basic), Git, GitHub
 - **Tools:** VS Code, Vite, Node.js, Chrome DevTools
